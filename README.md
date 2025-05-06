@@ -58,8 +58,7 @@ const sovanken = {
     databases: ["MongoDB", "PostgreSQL", "Firebase"],
     design: ["Figma", "Adobe XD", "Sketch"]
   },
-  currentFocus: "Building Flutter Packages for Khmer Localization",
-  funFact: "I can speak three languages fluently!"
+  currentFocus: "Building Flutter Packages for Khmer Localization"
 };
 ```
 
@@ -237,31 +236,31 @@ const sovanken = {
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="50" height="50" />
-        <h3>2015</h3>
-        <p>Started learning mobile development</p>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="50" height="50" />
-        <h3>2017</h3>
-        <p>Released first Android application</p>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
-        <h3>2019</h3>
-        <p>Discovered Flutter and fell in love</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="50" height="50" />
         <h3>2020</h3>
-        <p>Published first Flutter package</p>
+        <p>Started with Flutter & published first package</p>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" />
+        <h3>2021</h3>
+        <p>Created UI component libraries & frameworks</p>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="50" height="50" />
         <h3>2022</h3>
         <p>Focused on Khmer language support</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="50" height="50" />
+        <h3>2023</h3>
+        <p>Developed comprehensive localization tools</p>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Hundred%20Points.png" alt="Hundred Points" width="50" height="50" />
+        <h3>2024</h3>
+        <p>Reached 100K+ downloads across packages</p>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="50" height="50" />

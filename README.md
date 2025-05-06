@@ -262,55 +262,6 @@ const sovanken = {
   <img src="https://github-profile-trophy.vercel.app/?username=sovanken&theme=radical&row=1&column=7&no-frame=true" alt="Trophy" />
 </p>
 
-<!-- DEV JOURNEY SECTION -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="30" height="30" />
-  <span>My Dev Journey</span>
-</h2>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding" width="400" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="50" height="50" />
-        <h3>2020</h3>
-        <p>Started with Flutter & published first package</p>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" />
-        <h3>2021</h3>
-        <p>Created UI component libraries & frameworks</p>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="50" height="50" />
-        <h3>2022</h3>
-        <p>Focused on Khmer language support</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="50" height="50" />
-        <h3>2023</h3>
-        <p>Developed comprehensive localization tools</p>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Hundred%20Points.png" alt="Hundred Points" width="50" height="50" />
-        <h3>2024</h3>
-        <p>Reached 100K+ downloads across packages</p>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="50" height="50" />
-        <h3>2025</h3>
-        <p>Growing the Khmer dev community</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- FEATURED PROJECTS - USING IMAGES INSTEAD OF REPO CARDS -->
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Sparkles" width="30" height="30" />

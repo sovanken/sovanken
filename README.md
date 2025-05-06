@@ -61,7 +61,6 @@ const sovanken = {
     design: ["Figma", "Adobe XD", "Sketch"]
   },
   currentFocus: "Building Flutter Packages for Khmer Localization",
-  funFact: "I can speak three languages fluently!"
 };
 ```
 

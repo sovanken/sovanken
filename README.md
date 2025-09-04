@@ -61,13 +61,6 @@ const sovanken = {
   currentFocus: "Building Flutter Packages for Khmer Localization"
 };
 ```
-
-<p align="left" style="text-align: justify;">
-  I'm a passionate Flutter Developer and UI/UX Enthusiast based in Phnom Penh, Cambodia 🇰🇭, dedicated to creating mobile experiences that are both beautiful and functional. With a focus on clean architecture and intuitive user interfaces, I strive to build applications that users love.
-  <br><br>
-  As an active open-source contributor, I maintain several Flutter packages with a particular focus on Khmer language support and localization tools. My mission is to make technology more accessible to Khmer-speaking users while providing developers with powerful, easy-to-use resources.
-</p>
-
 <!-- ANIMATED QUOTE BOX -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="85%" />
@@ -122,37 +115,3 @@ const sovanken = {
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
   
-  <!-- Setup instructions in comments -->
-  <!-- 
-  To set up your own snake animation:
-  1. Create a .github/workflows/snake.yml file in your profile repo
-  2. Add the following content:
-  
-  name: Generate Snake Animation
-  
-  on:
-    schedule:
-      - cron: "0 */12 * * *" # runs every 12 hours
-    workflow_dispatch:
-  
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v2
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v2.6.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sovanken/count.svg" alt="Visitor Count" />
-</div>

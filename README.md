@@ -54,7 +54,6 @@ const sovanken = {
     databases: ["MongoDB", "Firebase"],
     design: ["Figma", "Adobe XD", "Sketch"]
   },
-  currentFocus: "Building Flutter Packages for Khmer Localization"
 };
 ```
 

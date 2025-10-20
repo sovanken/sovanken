@@ -44,18 +44,14 @@
 ```javascript
 const sovanken = {
   pronouns: "he" | "him",
-  code: ["Dart", "JavaScript", "TypeScript", "Python", "C++"],
+  code: ["Dart", "C++"],
   technologies: {
     mobileApp: ["Flutter", "Android Native"],
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind", "Bootstrap"]
-    },
     backEnd: {
       js: ["Node", "Express"],
       misc: ["Firebase", "Supabase"]
     },
-    databases: ["MongoDB", "PostgreSQL", "Firebase"],
+    databases: ["MongoDB", "Firebase"],
     design: ["Figma", "Adobe XD", "Sketch"]
   },
   currentFocus: "Building Flutter Packages for Khmer Localization"

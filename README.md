@@ -32,34 +32,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </p>
-
-<!-- ABOUT ME SECTION WITH ANIMATED CODE TAGS -->
-<h2>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" />
-  <span>About Me</span>
-</h2>
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280" />
-
-```javascript
-const sovanken = {
-  pronouns: "he" | "him",
-  code: ["Dart", "C++"],
-  technologies: {
-    mobileApp: ["Flutter", "Android Native"],
-    backEnd: {
-      js: ["Node", "Express"],
-      misc: ["Firebase", "Supabase"]
-    },
-    databases: ["MongoDB", "Firebase"],
-    design: ["Figma", "Adobe XD", "Sketch"]
-  },
-};
-```
-
 <!-- GITHUB CONTRIBUTION SNAKE -->
 <div align="center">
-  <h3>🐍 My Contributions</h3>
   
   <!-- Snake animation with dark/light mode support -->
   <picture>
